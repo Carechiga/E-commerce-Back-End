@@ -1,4 +1,4 @@
-const { Category } = require('../../../UCI-VIRT-FSF-PT-12-2022-U-LOLC/01-Class-Content/13-ORM/02-Challenge/Develop/models');
+const { Category } = require('../models');
 
 const categoryData = [
   {
