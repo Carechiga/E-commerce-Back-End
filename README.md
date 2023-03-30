@@ -24,6 +24,8 @@ In order to run this application you will need to install sequelize, dotenv, exp
 
 In order to use the program, you will need to make requests using an API development platform to send GET, POST, PUT, or DELETE routes to the application to update the database. Proper request formats for the POST routes have been commented in the routes files. The link below will take you to a video demonstration of the apps functionality.
 
+https://www.youtube.com/watch?v=rfA-E1Xj0is
+
 ## Credits
 
 Starter code for this application was given to me the UCI fullstack bootcamp
